@@ -1,0 +1,30 @@
+{
+   "elementos":[
+      {
+         "nome":"Agua"
+      },
+      {
+         "nome":"Terra"
+      },
+      {
+         "nome":"Fogo"
+      },
+      {
+         "nome":"Ar"
+      }
+   ],
+   "constelações":[
+      {
+         "nome":"Fênix"
+      },
+      {
+         "nome":"Constelação de Órion"
+      },
+      {
+         "nome":"Cruzeiro do Sul"
+      },
+      {
+         "nome":"Pégaso"
+      }
+   ]
+}
